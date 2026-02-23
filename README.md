@@ -1,5 +1,12 @@
 # auto-port-platform-65
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-port-platform-65/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-port-platform-65/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-port-platform-65)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-port-platform-65)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-port-platform-65)
+
 ## Detailed Description
 
 auto-port-platform-65 is maintained as an industry-grade software project with production-ready engineering practices.  
